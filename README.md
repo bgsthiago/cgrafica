@@ -1,5 +1,5 @@
 ## Computação Gráfica
-Repositório das atividades da disciplina de Computação Gráfica, ministrada pelo Prº Drº Mario Liziér em 2017/1 no curso de Ciência da Computação da Universidade Federal de São Carlos.
+Repositório das atividades da disciplina de Computação Gráfica, ministrada pelo Pr° Dr° Mario Liziér em 2017/1 do curso de Ciência da Computação da Universidade Federal de São Carlos.
 
 #### Integrantes:
 
@@ -9,7 +9,7 @@ Repositório das atividades da disciplina de Computação Gráfica, ministrada p
 
 #### Descrição:
 
-Neste projeto, é utilizada a biblioteca JavaScript [threeJS](https://github.com/mrdoob/three.js/)
+Este projeto utiliza a biblioteca JavaScript [threeJS](https://github.com/mrdoob/three.js/).
 
 Atividade 1 (A1) - Entrega: 19/05
 
