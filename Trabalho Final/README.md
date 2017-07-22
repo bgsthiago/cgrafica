@@ -14,3 +14,10 @@ Futuras implementações:
   - Interface amigavel, onde poderá escolher o jogo (queremos implementar um tetris tambem ).
   - Guardar Scores anteriores para futura competição entre amigos.
   - tornar a cobra mais parecida com as dos jogos de antigamente, não uma cobra quadrada.
+
+  
+			#COMO JOGAR
+- Para movimentar a cobra basta usar as setinhas do teclado.
+- Cada maça comida acrescenta um bloco na cobra e um ponto na pontuação.
+- Tente bater seu próprio recorde é divertido.
+		
